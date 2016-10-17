@@ -2,7 +2,7 @@
   "name": "proportional-calc",
   "version": "0.0.5",
   "description": "Proportional solver",
-  "main": "./src/index.js",
+  "main": "./src/proportional.js",
   "bin": {
     "proportional-calc": "./bin/proportional-calc.js"
   },
