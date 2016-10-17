@@ -1,6 +1,6 @@
 {
   "name": "proportional-calc",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Proportional solver",
   "main": "index.js",
   "bin": {
