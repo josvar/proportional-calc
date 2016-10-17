@@ -1,0 +1,33 @@
+{
+  "name": "proportional-calc",
+  "version": "0.0.1",
+  "description": "Proportional solver",
+  "main": "index.js",
+  "bin": {
+    "proportional-calc": "./bin/proportional-calc.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josvar/proportional-calc.git"
+  },
+  "keywords": [
+    "proportional",
+    "calc",
+    "calculator",
+    "solver"
+  ],
+  "author": "Josue Vargas <jos.vargasv@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josvar/proportional-calc/issues"
+  },
+  "homepage": "https://github.com/josvar/proportional-calc#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "lodash": "^4.16.4",
+    "vorpal": "^1.11.4"
+  }
+}
