@@ -27,7 +27,6 @@
   "homepage": "https://github.com/josvar/proportional-calc#readme",
   "dependencies": {
     "commander": "^2.9.0",
-    "lodash": "^4.16.4",
-    "vorpal": "^1.11.4"
+    "lodash": "^4.16.4"
   }
 }

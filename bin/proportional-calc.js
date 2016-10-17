@@ -5,7 +5,7 @@
 
 let program = require('commander');
 let _ = require('lodash');
-let proportional = require('./src/proportional');
+let proportional = require('../src/proportional');
 
 program
   .version('0.0.1')
